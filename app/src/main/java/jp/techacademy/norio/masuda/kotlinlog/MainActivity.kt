@@ -3,7 +3,6 @@ package jp.techacademy.norio.masuda.kotlinlog
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log   // ここを追加
-import jp.techacademy.norio.masuda.kotlinlog.Human as Human1
 
 class MainActivity : AppCompatActivity() {
 
